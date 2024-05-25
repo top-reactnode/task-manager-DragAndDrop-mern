@@ -1,6 +1,6 @@
 import axios from "axios";
+import { useState } from "react";
 import "boxicons/css/boxicons.min.css";
-import { useEffect, useState } from "react";
 
 export default function TaskCard({ type, setRefresh }) {
   const [changedData, setchangedData] = useState({});

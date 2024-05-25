@@ -1,7 +1,8 @@
+import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Main from "./Pages";
 import SideBar from "./Template/sideBar";
 import About from "./Pages/About";
-import { Routes, Route, BrowserRouter } from "react-router-dom";
+
 function App() {
   return (
     <BrowserRouter className="">

@@ -8,7 +8,7 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0"
   },
-  "name": "back-end",
+  "name": "task-manager-backend",
   "version": "1.0.0",
   "main": "index.mjs",
   "devDependencies": {

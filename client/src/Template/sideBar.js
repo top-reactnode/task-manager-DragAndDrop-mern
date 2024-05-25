@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
-import "./sidebar.css";
 import "boxicons/css/boxicons.min.css";
+import "./sidebar.css";
+
 export default function SideBar() {
   return (
         <div className="sidebar">
